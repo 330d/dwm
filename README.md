@@ -2,7 +2,9 @@
 patches used: alpha, alwayscenter, fullgaps, gridmode
 
 ### make dwm appear on display manager
-> vim /usr/share/xsessions/dwm.desktop
+```
+# vim /usr/share/xsessions/dwm.desktop
+```
 ```
 [Desktop Entry]
 Encoding=UTF-8
